@@ -1,4 +1,4 @@
-package com.scau.system.item.entity;
+package com.scau.systrm.item.entity;
 
 import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableId;

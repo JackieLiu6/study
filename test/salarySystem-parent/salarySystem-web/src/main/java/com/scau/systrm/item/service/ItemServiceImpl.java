@@ -1,12 +1,10 @@
-package com.scau.system.item.service;
+package com.scau.systrm.item.service;
 
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import com.scau.system.item.entity.Item;
-import com.scau.system.item.mapper.ItemMapper;
-import com.scau.system.item.entity.Item;
-import com.scau.system.item.service.ItemService;
+import com.scau.systrm.item.entity.Item;
+import com.scau.systrm.item.mapper.ItemMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
